@@ -82,7 +82,7 @@ html {
     background-color: #b1eceb;
   }
 
-  .list-group {
+  li .list-group {
     list-style-type: none;
     padding: 0;
     margin: 0;
